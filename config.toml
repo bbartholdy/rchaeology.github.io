@@ -99,8 +99,8 @@ disableHugoGeneratorInject = false
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   #
-  customCSS = []
-  customJS  = []
+  #customCSS = []
+  #customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   #
@@ -158,9 +158,9 @@ disableHugoGeneratorInject = false
   #   maxWidth = "50px"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/rchaeology1"
+  #[[params.social]]
+  #  name = "bluesky" # bluesky not available
+  #  url  = "https://bsky.app/profile/rchaeology.bsky.social"
 
   [[params.social]]
     name = "mastodon"
